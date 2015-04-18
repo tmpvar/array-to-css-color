@@ -1,0 +1,32 @@
+{
+  "name": "array-to-css-color",
+  "version": "0.0.0",
+  "description": "convert an array to a css color string",
+  "main": "array-to-css-color.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmpvar/array-to-css-color.git"
+  },
+  "keywords": [
+    "array",
+    "css",
+    "string",
+    "converter",
+    "rgb",
+    "rgba",
+    "hsl",
+    "hsv"
+  ],
+  "author": "Elijah Insua <tmpvar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmpvar/array-to-css-color/issues"
+  },
+  "homepage": "https://github.com/tmpvar/array-to-css-color",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  }
+}
