@@ -1,6 +1,6 @@
 {
   "name": "array-to-css-color",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "convert an array to a css color string",
   "main": "array-to-css-color.js",
   "scripts": {
